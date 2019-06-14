@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name" translatable="false">BloodBank</string>
+    <string name="blood_bank" translatable="false">Blood Bank</string>
+    <string name="take_your_time_to_design_a_cool_splash_screen">Take your time to design a cool splash screen.</string>
+    <string name="string_take_your_time_to_design_a_cool_splash_screen" />
+    <string name="new_donor">New Donor</string>
+    <string name="ADD">ADD</string>
+    <string name="Locality">Locality</string>
+    <string name="Mobile">Mobile</string>
+    <string name="BloodType">BloodType</string>
+    <string name="BloodGroup">BloodType</string>
+    <string name="Name">Name</string>
+    <string name="Phone">Phone</string>
+    <string name="CALL">CALL</string>
+    <string name="CANCEL">Cancel</string>
+    <string name="SearchResult">SearchResult</string>
+    <string name="Search">Search</string>
+    <string name="SearchDonor">SearchDonor</string>
+    <string name="Caption">Caption</string>
+    <string name="some_wonderful_caption_here">Some wonderful caption here :)</string>
+    <string name="donor_search">Donor Search</string>
+    <string name="todo">TODO</string>
+    <string name="desc">desc</string>
+    <string name="TODO">TODO</string>
+    <string-array name="blood_type">
+        <item>A+</item>
+        <item>B+</item>
+        <item>AB+</item>
+        <item>O+</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>AB-</item>
+        <item>O-</item>
+    </string-array>
+    <string-array name="panch">
+
+        <item>Locality 1</item>
+        <item>Locality 2</item>
+        <item>Locality 3</item>
+        <item>Locality 4</item>
+
+
+    </string-array>
+</resources>
